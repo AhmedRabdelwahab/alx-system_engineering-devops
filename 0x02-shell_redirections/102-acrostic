@@ -1,8 +1,2 @@
 #!/bin/bash
-echo "did
-each
-cat
-outside
-disapper
-enter
-snow" > decodes.txt | cut -c 1 
+cut -c 1 *
