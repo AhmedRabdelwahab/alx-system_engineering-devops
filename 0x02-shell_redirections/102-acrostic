@@ -1,2 +1,8 @@
 #!/bin/bash
-cut -c 1 ./
+echo "did
+each
+cat
+outside
+disapper
+enter
+snow" > decodes.txt | cut -c 1 
