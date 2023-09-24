@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -user /etc/passwd
+find . -user /etc/passwd | sort 
