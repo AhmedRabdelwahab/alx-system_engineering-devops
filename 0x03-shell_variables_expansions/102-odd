@@ -1,3 +1,2 @@
 #!/bin/bash
-ls -l | cut -d '
-'
+past -d, - - | cut -d, -f1
