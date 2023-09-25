@@ -1,2 +1,2 @@
 #!/bin/bash
-SUM=$(($BREATH=4 ** $LOVE=3))
+sum=$(($BREATH ** $LOVE)) | echo "Sum: $sum"
